@@ -1,0 +1,75 @@
+.about-hero {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  text-align: center;
+  padding: 120px 0 80px;
+}
+
+.about-hero .section-title {
+  color: white;
+}
+
+.about-hero .section-subtitle {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.about-content h2 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+}
+
+.about-content p {
+  color: #7f8c8d;
+  margin-bottom: 20px;
+  line-height: 1.8;
+}
+
+.value-card {
+  text-align: center;
+  padding: 30px 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.value-card:hover {
+  transform: translateY(-5px);
+}
+
+.value-icon {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.value-card h3 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+.value-card p {
+  color: #7f8c8d;
+}
+
+.stats {
+  background: #f8f9fa;
+}
+
+.stat-card {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.stat-card h3 {
+  font-size: 3rem;
+  color: #667eea;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.stat-card p {
+  color: #2c3e50;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
